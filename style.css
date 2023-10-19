@@ -357,7 +357,7 @@ main{
   }
 
   .js-accordion .title-card::after{
-    content: '↴';
+    content: '⬎';
     margin-left: 10px;
   } 
   .js-accordion .title-card.ativo::after{
